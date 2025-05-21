@@ -1,0 +1,6 @@
+[
+    {
+        "model": "Qwen/Qwen3-0.6B",
+        "model_client_cls": "CustomModelClient"
+    }
+]
