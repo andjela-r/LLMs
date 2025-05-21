@@ -1,0 +1,7 @@
+fastapi[standard]
+hf_xet
+pydantic
+transformers
+torch
+huggingface_hub[hf_xet]
+langfuse
