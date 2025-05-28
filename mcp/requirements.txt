@@ -1,0 +1,3 @@
+smolagents[mcp]
+gradio[mcp]
+mcp

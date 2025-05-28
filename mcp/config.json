@@ -1,0 +1,7 @@
+{
+    "mcpServers": {
+        "mcp": {
+            "url": "http://localhost:7860/gradio_api/msp/sse"
+        }
+    }
+}
