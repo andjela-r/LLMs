@@ -1,6 +1,6 @@
 # MCP (Model Context Protocol) Python SDK Example
 
-This simple server example is also based on the Hugging Face MCP course, but for those of us who don't want to jump in with `uv`, it’s unclear how to start the server without it.
+This simple server example is from the [🤗 Hugging Face MCP Course 🤗](https://huggingface.co/learn/mcp-course/unit0/introduction), but for those of us who don't want to jump in with `uv`, it’s unclear how to start the server without it.
 So here’s **my** interpretation of how to use the **MCP Inspector** — without `uv`.
 
 ## Requirements

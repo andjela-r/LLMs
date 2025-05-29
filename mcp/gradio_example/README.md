@@ -2,7 +2,7 @@
 
 This project is based on the [🤗 Hugging Face MCP Course 🤗](https://huggingface.co/learn/mcp-course/unit0/introduction), using Gradio for both the MCP server and MCP-powered agent client.
 
-It demonstrates how to:  
+It demonstrates how to:  hf
 - Register tools via an MCP-compatible Gradio server.  
 - Build an agent that dynamically retrieves and uses those tools.  
 
