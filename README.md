@@ -9,3 +9,5 @@ A collection of simple, practical tutorials for working with large language mode
     A set of notebooks showcasing how to work with open-source models from Hugging Face using [Autogen](https://microsoft.github.io/autogen/)
 3. [**mcp**](mcp)  
     A minimal demo of the Model Context Protocol (MCP)
+4. [**acp**](acp)  
+    A minimal demo of the Agent Communication Protocol (ACP) using a CodeAgent from smolagents and an AssistantAgent from autogen
